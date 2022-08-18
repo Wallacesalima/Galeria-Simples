@@ -1,1 +1,1 @@
-#Galeria Simples# 
+Galeria Simples
