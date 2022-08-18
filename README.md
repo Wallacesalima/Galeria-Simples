@@ -1,2 +1,1 @@
-"# Galeria-Simples" 
-"# Galeria-Simples"  
+"# Galeria-Simples"
